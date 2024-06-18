@@ -62,7 +62,17 @@ const Demo = () => {
             className="url_input peer peer-focus:border-gray-700 peer-focus:text-gray-700"
           />
           <button type="submit" className="submit_btn">
-            []
+            {isFetching ? (
+              <img
+                src={loader}
+                alt="loader"
+                className="w-20 h-20 object-contain"
+              />
+            ) : (
+              <span className="font-satoshi font-normal text-gray-700">
+                Enter
+              </span>
+            )}
           </button>
         </form>
 
