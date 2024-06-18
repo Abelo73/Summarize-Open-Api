@@ -1,10 +1,12 @@
-# Project Title
+markdown
+Copy code
+# Summarize Open API
 
 This is a description of my awesome project.
 
 ## Screenshot
 
-![Project Screenshot](./assets/desc.png)
+![Loading Screen](./assets/laoding.png)
 
 ## Features
 
@@ -17,6 +19,6 @@ This is a description of my awesome project.
 To install this project, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Abelo73/Summarize-Open-Api.git
+cd Summarize-Open-Api
 npm install
