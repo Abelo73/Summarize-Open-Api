@@ -6,7 +6,7 @@ This is a description of my awesome project.
 
 ## Screenshot
 
-![Loading Screen](./assets/laoding.png)
+![Loading Screen](./src/assets/laoding.png)
 
 ## Features
 
